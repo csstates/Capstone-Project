@@ -1,0 +1,1 @@
+I am currently pursuing a Google Data Analytics certificate and have been entrusted to complete a case study on Adidas’ US sales. The purpose of this case study is to display the skills I’ve obtained in data analytics and my understanding of the “Ask, Prepare, Process, Analyze, Share, and Act” methodology.
